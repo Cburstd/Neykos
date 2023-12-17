@@ -1,4 +1,1 @@
-# Desaf-o-Neykos
-# Desaf-o-Neykos
-# Neykos
-# Neykos
+Desafío Neykos para prácticas verano 2024
